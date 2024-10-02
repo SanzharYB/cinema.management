@@ -29,5 +29,5 @@ The Cinema Management System is a Java application that manages various operatio
 ### Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/cinema-management-system.git
+   git clone https://github.com/SanzharYB/cinema.management
 
